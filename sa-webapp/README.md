@@ -1,4 +1,4 @@
-## Packaging the application
+## Packaging the application  
 ` $ mvn install`
 
 ## Running the application
